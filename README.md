@@ -11,8 +11,6 @@ pandas => 0.23.0 - [Detailed Info](https://pypi.org/project/pandas/)
 Installing package: 
 ```
 pip install twitter
-```
-```
 pip install pandas
 ```
 # Starting the Bot
